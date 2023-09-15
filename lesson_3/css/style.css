@@ -1,0 +1,12 @@
+/* Скидання стилів */
+@import url("reset.css");
+
+/* Основні стилі */
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
